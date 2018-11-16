@@ -256,14 +256,14 @@ a.play_button {
   border: 1px solid #0f89f4;
   border-left: none;
   cursor: pointer;
-  background: url("../../common.blocks/slider/arrow_left.png") no-repeat right 10px center/auto !important; }
+  background: url("../common.blocks/slider/arrow_left.png") no-repeat right 10px center/auto !important; }
 
 .slick-next {
   width: 200px !important;
   border: 1px solid #0f89f4;
   border-right: none;
   cursor: pointer;
-  background: url("../../common.blocks/slider/arrow_right.png") no-repeat left 10px center/auto !important; }
+  background: url("../common.blocks/slider/arrow_right.png") no-repeat left 10px center/auto !important; }
 
 /*PRODUCT DESCRIPTION*/
 .product_description {
