@@ -1,0 +1,15 @@
+@media screen and (max-width: $BP_smallsize) {
+
+  .comments {
+ flex-direction: column;
+  }
+
+  .comment {
+    margin: 10px 15px;
+    flex-grow: 1;
+    max-width: none;
+
+  }
+
+
+}

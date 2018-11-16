@@ -1,0 +1,22 @@
+@media screen and (max-width: $BP_smallsize) {
+
+  .product_description__paragraph {
+    flex-direction: column-reverse;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .product_description__paragraph_text {
+    flex-grow: 1;
+    width: 100%;
+    text-align: center;
+  }
+  .product_description__paragraph_photo {
+    width: 100%;
+    justify-content: center;
+    align-items: flex-end;
+    min-height: 50vw;
+  }
+
+
+}

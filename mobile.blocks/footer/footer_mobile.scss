@@ -1,0 +1,12 @@
+@media screen and (max-width: $BP_smallsize) {
+
+  .footer_content {
+    flex-direction: column;
+
+  }
+  .footer_block {
+    max-width: none;
+  }
+
+
+}
